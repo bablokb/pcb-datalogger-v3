@@ -6,8 +6,8 @@
 
   (title_block
     (title "pico-datalogger-v3")
-    (date "2026-01-15")
-    (rev "3.02")
+    (date "2026-02-19")
+    (rev "3.10")
     (company "Bernhard Bablok")
     (comment 1 "https://github.com/bablokb/pcb-pico-datalogger")
     (comment 2 "https://opendeved.net/ilce")
@@ -6636,7 +6636,7 @@
     (property "Value" "74LVC2G74" (at 256.286 37.592 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-8_3x3mm_P0.65mm" (at 251.46 50.8 0)
+    (property "Footprint" "Package_SON:X2SON-8_1.4x1mm_P0.35mm" (at 251.46 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc74" (at 251.46 49.53 0)
@@ -6669,7 +6669,7 @@
     (property "Status" "Active" (at 246.38 19.05 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
-    (property "LCSC" "C282355" (at 251.46 49.53 0)
+    (property "LCSC" "C548678" (at 251.46 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ae4098fb-0ad3-4b61-b62f-45de53f4724b))
