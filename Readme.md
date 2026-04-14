@@ -3,6 +3,12 @@ KiCAD-Designfiles for Version 3 PCB
 
 Here are the KiCAD (v7) design-files for the Datalogger-V3-PCB.
 
+The PCB supports a
+[display-adapter](https://github.com/bablokb/pcb-datalogger-display-adapter)
+connected with SURS-cables, or an [adapter connected with normal
+DuPont-sockets](https://github.com/bablokb/pcb-datalogger-display-adapter-v2).
+
+
 Schematic
 ---------
 
@@ -22,6 +28,18 @@ Layout
 
 ![](pcb-3D-inward.png)
 ![](pcb-3D-outward.png)
+
+
+Printed Case
+------------
+
+A printed case is available from <https://github.com/bablokb/3D-datalogger-v3-case>:
+
+![](https://github.com/bablokb/3D-datalogger-v3-case/complete.jpg?raw=true)
+
+Together with a display:
+
+![](https://github.com/bablokb/3D-datalogger-v3-case/complete-with-display.jpg?raw=true)
 
 
 License
