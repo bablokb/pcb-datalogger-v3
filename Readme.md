@@ -35,11 +35,11 @@ Printed Case
 
 A printed case is available from <https://github.com/bablokb/3D-datalogger-v3-case>:
 
-![](https://github.com/bablokb/3D-datalogger-v3-case/complete.jpg?raw=true)
+![](https://raw.githubusercontent.com/bablokb/3D-datalogger-v3-case/main/complete.jpg)
 
 Together with a display:
 
-![](https://github.com/bablokb/3D-datalogger-v3-case/complete-with-display.jpg?raw=true)
+![](https://raw.githubusercontent.com/bablokb/3D-datalogger-v3-case/main/complete-with-display.jpg)
 
 
 License
